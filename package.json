@@ -1,0 +1,28 @@
+{
+  "name": "consolecol",
+  "version": "1.0.0",
+  "description": "Lightweight library designed to enrich your console applications with vibrant color outputs",
+  "type": "module",
+  "main": "index.js",
+  "bin": "index.js",
+  "files": [ "index.js" ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/darkoso7/consolecol.git)"
+  },
+  "keywords": [
+    "console",
+    "terminal",
+    "text",
+    "color",
+    "colour"
+  ],
+  "author": "Brando Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
